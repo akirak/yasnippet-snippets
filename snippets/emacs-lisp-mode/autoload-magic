@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: autoload magic comment
-# key: auto
+# key: magic
 # --
 ;;;###autoload
